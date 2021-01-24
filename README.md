@@ -1,2 +1,1 @@
-# ProjectToDoList
-ProjectToDoList
+# ToDoList
